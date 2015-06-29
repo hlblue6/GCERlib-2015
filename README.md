@@ -2,7 +2,7 @@
 
 
 
-The create folder was copied and pasted from opencode: https://github.com/normanadvanced/OpenCode    
+The "create" folder was copied and pasted from opencode: https://github.com/normanadvanced/OpenCode    
 
 Many of the designs for this lib were also taken from opencode.
 
